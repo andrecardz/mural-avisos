@@ -26,6 +26,17 @@ python -m http.server 5500
 - Interface: http://localhost:5500
 - Swagger: http://127.0.0.1:8000/docs
 
+## Grupo
+
+| Integrante | Matrícula | Contribuição |
+|---|---|---|
+| André Ávila Cardoso | 202411312 | `models.py` e validações do Pydantic |
+| Daniel Monteiro de Oliveira | 202411308 | rota GET /api/avisos |
+| Fabrício de Lima Rodrigues Monteiro | 202411276 | rota POST /api/avisos e código 201 |
+| Kevin Teixeira Paula | 202411265 | configuração do CORS e ambiente virtual |
+| Samuel Ribeiro Soares | 202411296 | testes mínimos e evidências |
+| Thiago Araújo Brites | 202411274 | documentação e organização do repositório |
+
 ## Contrato da API
 
 | Operação | Método e rota | Resposta |
